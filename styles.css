@@ -16,13 +16,6 @@ body {
     opacity: 0;
     animation: fadeIn 6s forwards;
 }
-
-
-.cat-animation {
-    width: 280px;
-    height: auto;
-}
-
 @keyframes fadeIn {
     0% {
         opacity: 0;
