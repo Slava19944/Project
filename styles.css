@@ -21,8 +21,8 @@ body {
 }
 
 .popup-content img {
-    max-width: 40%;
-    height: 100%;
+    max-width: 60%;
+    height: auto;
     border-radius: 10px;
     margin-bottom: 15px;
 }
